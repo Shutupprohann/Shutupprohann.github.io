@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Firstpost on Shutupprohann.github.io</title>
+    <link>http://localhost:1313/tags/firstpost/</link>
+    <description>Recent content in Firstpost on Shutupprohann.github.io</description>
+    <image>
+      <title>Shutupprohann.github.io</title>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.137.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 07 Nov 2024 23:47:41 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/firstpost/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>At Last,I made it!</title>
+      <link>http://localhost:1313/posts/firstpost/</link>
+      <pubDate>Thu, 07 Nov 2024 23:47:41 +0530</pubDate>
+      <guid>http://localhost:1313/posts/firstpost/</guid>
+      <description>&lt;hr&gt;
+&lt;h5 id=&#34;hello-there&#34;&gt;Hello There!&lt;/h5&gt;
+&lt;p&gt;&lt;em&gt;well i dont know how should i start this post (nervous laughter).&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;So if you are reading this,i have sucessfully setup my personal website using hugo and github pages (&lt;em&gt;No claps please,lol&lt;/em&gt;).&lt;/p&gt;
+&lt;p&gt;I learned quite a few things about websites while doing it.I will be posting my writeups,thoughts and other things here,
+and will try to improve this website with time.&lt;/p&gt;
+&lt;p&gt;Well,That&amp;rsquo;s all for now.(&lt;em&gt;I dont want to uneccessarily extend this post anymore.)&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

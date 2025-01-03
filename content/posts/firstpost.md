@@ -2,6 +2,7 @@
 date = '2024-11-07T23:47:41+05:30'
 draft = false
 title = 'At Last,I made it!'
+tags = ['Introduction',"Firstpost"]
 +++
 
 ---
