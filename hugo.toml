@@ -40,15 +40,15 @@ showtoc = false
 tocopen = false
 
   [params.assets]
-  favicon = "<link / abs url>"
-  favicon16x16 = "<link / abs url>"
-  favicon32x32 = "<link / abs url>"
-  apple_touch_icon = "<link / abs url>"
-  safari_pinned_tab = "<link / abs url>"
+  favicon = "favicon.ico"
+  favicon16x16 = "favicon-16x16.png"
+  favicon32x32 = "favicon-32x32.png"
+  apple_touch_icon = "apple-touch-icon.png"
+  android_chrome192x192 = "android_chrome-192x192.png "
 
   [params.label]
   text = "Home"
-  icon = "/apple-touch-icon.png"
+  icon = "favicon.ico"
   iconHeight = 35
 
   [params.profileMode]
@@ -69,7 +69,7 @@ tocopen = false
     url = "tags"
 
   [params.homeInfoParams]
-  Title = "Hi there 👋"
+  Title = "Hey there 👋"
   Content = "Welcome to my blog"
 
   [[params.socialIcons]]
@@ -111,13 +111,6 @@ SiteVerificationTag = "XYZabc"
   minMatchCharLength = 0
   limit = 10
   keys = [ "title", "permalink", "summary", "content" ]
-
-
-[[menu.main]]
-identifier = "categories"
-name = "Categories"
-url = "/categories/"
-weight = 10
 
 [[menu.main]]
 identifier = "tags"
